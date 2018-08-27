@@ -1,0 +1,1 @@
+dir /b "C:\Users\Sfak\Desktop\BOOTSTRAP DEMO PROJECT\media\photo_gallery" > myFiles.txt
